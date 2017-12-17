@@ -4,6 +4,12 @@
 
 **This peer assessed assignment has two parts.
 
+
+           1.file:///C:/Users/KYRAHU~1/AppData/Local/Temp/RtmpGiXQEt/view13c497364f.dir/presentation.html#/
+           2.http://127.0.0.1:7051
+
+
+
 **First, you will create a Shiny application and deploy it on Rstudio's servers.
 
 **Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
