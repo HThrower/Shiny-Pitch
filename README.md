@@ -5,8 +5,11 @@
 **This peer assessed assignment has two parts.
 
 
-           1.file:///C:/Users/KYRAHU~1/AppData/Local/Temp/RtmpGiXQEt/view13c497364f.dir/presentation.html#/
-           2.http://127.0.0.1:7051
+           Part1: Shiny Application
+          -https://hammerthrower.shinyapps.io/shiny_app/
+
+          Part2: slide show presentation
+          -http://rpubs.com/Hammertime/343249
 
 
 
